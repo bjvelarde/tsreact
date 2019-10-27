@@ -9,7 +9,7 @@ const App: React.FC = () => {
   return (
     <Fragment>
       <CssBaseline />
-      <Container maxWidth="sm">
+      <Container fixed>
         <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '100vh' }} />
       </Container>
     </Fragment>    
