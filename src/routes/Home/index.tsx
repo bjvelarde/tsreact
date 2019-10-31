@@ -6,7 +6,7 @@ const Home: React.FC = () => {
   return (
     <Container fixed>
       <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '100vh' }}>
-        <h1>Hello Material UI</h1>
+        <h1>Home Page - Hello Material UI</h1>
       </Typography>
     </Container>
   );
